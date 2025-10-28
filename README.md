@@ -1,6 +1,6 @@
 # Ollama Chat Bot
 
-A simple web application for chatting with AI bot using Ollama locally. Features C++ backend and clean web frontend.
+A simple web application for chatting with AI bot using Ollama locally. Features C++ backend and clean web frontend. Was created for easier memory forming/testing of personal AI assistant with individual memory about the user.
 
 ## Features
 
@@ -21,5 +21,6 @@ A simple web application for chatting with AI bot using Ollama locally. Features
 ```bash
 # On Linux/macOS
 curl -fsSL https://ollama.ai/install.sh | sh
+
 
 # On Windows, download from https://ollama.ai/
